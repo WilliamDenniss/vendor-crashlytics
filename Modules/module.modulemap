@@ -1,6 +1,6 @@
-framework module Crashlytics {
-  umbrella header "Crashlytics.h"
+framework module Fabric {
+    umbrella header "Fabric.h"
 
-  export *
-  module * { export * }
+    export *
+    module * { export * }
 }
